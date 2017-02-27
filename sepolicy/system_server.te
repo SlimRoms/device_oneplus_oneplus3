@@ -6,3 +6,6 @@ allow system_server sensors_persist_file:dir search;
 allow system_server proc_stat:file r_file_perms;
 allow system_server remosaic_service:service_manager find;
 get_prop(system_server, diag_prop);
+
+# For OMS
+allow system_server overlay_service:service_manager find;

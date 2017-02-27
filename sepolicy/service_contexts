@@ -1,2 +1,5 @@
 ifaadaemon                           u:object_r:ifaadaemon_service:s0
 android.samsung.IRemosaicDaemon      u:object_r:remosaic_service:s0
+
+# For OMS
+overlay                                   u:object_r:overlay_service:s0
