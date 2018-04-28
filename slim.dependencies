@@ -3,5 +3,10 @@
     "repository": "SlimRoms/device_oppo_common",
     "target_path": "device/oppo/common",
     "branch": "or8.1"
+  },
+  {
+    "repository": "SlimRoms/vendor_codeaurora_telephony",
+    "target_path": "vendor/codeaurora/telephony",
+    "branch": "or8.1"
   }
 ]
