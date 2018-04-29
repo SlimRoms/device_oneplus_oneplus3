@@ -5,6 +5,11 @@
     "branch": "or8.1"
   },
   {
+    "repository": "SlimRoms/kernel_oneplus_msm8996",
+    "target_path": "kernel/oneplus/msm8996",
+    "branch": "or8.1"
+  },
+  {
     "repository": "SlimRoms/vendor_codeaurora_telephony",
     "target_path": "vendor/codeaurora/telephony",
     "branch": "or8.1"
