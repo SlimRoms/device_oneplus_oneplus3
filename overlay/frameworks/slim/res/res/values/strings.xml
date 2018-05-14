@@ -12,8 +12,16 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 <resources>
+    <string name="screen_off_gesture_title">Screen off gestures</string>
     <string name="gesture_up_swipe_title">One finger up swipe</string>
     <string name="gesture_down_swipe_title">One finger down swipe</string>
     <string name="gesture_left_swipe_title">One finger left swipe</string>
     <string name="gesture_right_swipe_title">One finger right swipe</string>
+    <string name="gesture_arrow_down_title">Arrow down</string>
+    <string name="gesture_arrow_left_title">Arrow left</string>
+    <string name="gesture_arrow_right_title">Arrow right</string>
+    <string name="gesture_arrow_up_title">Arrow up</string>
+    <string name="gesture_circle_title">Circle</string>
+    <string name="gesture_double_swipe_title">Double finger swipe down</string>
+    <string name="gesture_double_tap_title">Double tap</string>
 </resources>
